@@ -16,5 +16,10 @@
  ![example CNF2](https://github.com/zhuqunxi/My_numpy_NODE/blob/master/example/cnf_2_bias.gif)
  
  
+### References
+[1] Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. "Neural Ordinary Differential Equations." *Advances in Neural Information Processing Systems.* 2018. [[arxiv]](https://arxiv.org/abs/1806.07366)
+
+ 
+ 
 
 
